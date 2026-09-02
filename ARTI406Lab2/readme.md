@@ -1,0 +1,1 @@
+In this lab I learned how to Sample and Quantize an image. And Arithmetic Operations (add, subtract, add constant). And Set / Logical Operations (union, intersection, difference, symmetric difference)
